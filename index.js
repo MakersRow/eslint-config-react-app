@@ -100,7 +100,8 @@ module.exports = {
 
   globals: {
     mr: true,
-    Stripe: true
+    Stripe: true,
+    ShopifyApp: true
   },
 
   parserOptions: {
